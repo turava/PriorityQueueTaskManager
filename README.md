@@ -21,5 +21,5 @@ Make sure you have Python 3.x installed on your system. You can download Python 
 Clone this repository to get started with the priority queue:
 
 ```bash
-git clone https://github.com/yourusername/PriorityQueueTaskManager.git
+git clone https://github.com/turava/PriorityQueueTaskManager.git
 cd PriorityQueueTaskManager
